@@ -1,0 +1,25 @@
+{
+  "name": "instagram-like-downloader",
+  "version": "1.0.0",
+  "description": "Instagram likes image downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willyaranda/instagram-likes-downloader.git"
+  },
+  "keywords": [
+    "instagram",
+    "likes",
+    "image",
+    "downloader"
+  ],
+  "author": "Guillermo López <willyaranda>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willyaranda/instagram-likes-downloader/issues"
+  },
+  "homepage": "https://github.com/willyaranda/instagram-likes-downloader#readme"
+}
